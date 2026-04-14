@@ -3,13 +3,13 @@
 ## PROJECT CONCEPT NOTE
 
 ## Topic/Title
-**Influence of Social Media Usage on Academic Performance among Undergraduate Students at Makerere University**
+**Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University**
 
-Student Name: ____________________  
-Registration Number: ____________________  
+Student Name: NDACYASABA Cartas  
+Registration Number: BEDHG/2024/42081  
 Programme: ____________________  
 Course Unit: EBCU001 Research Methods  
-Institution: Makerere University  
+Institution: Mount Kigali University  
 Date: April 2026
 
 ---
@@ -21,7 +21,7 @@ Date: April 2026
 - Dependent Variable (DV): Academic performance
 
 ### 1.2 Geographical and Time Scope
-- Geographical scope: Makerere University, Kampala, Uganda
+- Geographical scope: Mount Kigali University, Kigali, Rwanda
 - Time scope: January 2020 to April 2026
 
 ### 1.3 Writing Tracker (20+ Page Target)
@@ -56,9 +56,9 @@ Social media platforms have become deeply integrated into the daily life of univ
 
 At the same time, higher education institutions are concerned about fluctuations in student academic performance. Some students effectively use social media to exchange notes, participate in class groups, and access academic communities. Other students experience frequent interruptions, reduced concentration, sleep disturbances, and procrastination related to high social media engagement. These contrasting outcomes suggest that social media usage may influence academic performance in both positive and negative ways depending on usage pattern and purpose.
 
-In Uganda, smartphone penetration and affordable internet bundles have accelerated student access to digital platforms. Within Makerere University, social media tools are visible in nearly all student activities, including formal academic engagements, informal peer support, and non-academic entertainment. Despite this reality, many policy and student support interventions still focus on traditional learning barriers while giving limited structured attention to digital behavior as a determinant of performance.
+In Rwanda, smartphone penetration and affordable internet bundles have accelerated student access to digital platforms. Within Mount Kigali University, social media tools are visible in nearly all student activities, including formal academic engagements, informal peer support, and non-academic entertainment. Despite this reality, many policy and student support interventions still focus on traditional learning barriers while giving limited structured attention to digital behavior as a determinant of performance.
 
-Recent institutional conversations around learner success, digital wellness, and online learning readiness indicate a need for empirical understanding of how social media behavior links to outcomes such as coursework completion, class participation, and grade trends. Without such evidence, administrators, lecturers, and student leaders may rely on assumptions when designing guidelines for digital use. A context-specific study is therefore necessary to generate practical evidence from Makerere University.
+Recent institutional conversations around learner success, digital wellness, and online learning readiness indicate a need for empirical understanding of how social media behavior links to outcomes such as coursework completion, class participation, and grade trends. Without such evidence, administrators, lecturers, and student leaders may rely on assumptions when designing guidelines for digital use. A context-specific study is therefore necessary to generate practical evidence from Mount Kigali University.
 
 This concept note proposes to examine the influence of social media usage on academic performance among undergraduate students. The study is expected to provide evidence that can support student counseling services, academic advising, and digital literacy programming while helping students adopt healthier and academically productive online habits.
 
@@ -67,23 +67,23 @@ The first part of the problem is that social media usage among undergraduate stu
 
 The second part is that academic performance among undergraduates remains uneven despite expansion of learning resources and communication technologies. While some students maintain strong grades, others report missed deadlines, poor revision habits, low concentration, and reduced lecture engagement. The link between these outcomes and social media behavior is frequently discussed but insufficiently measured in a structured local study.
 
-The third part is the evidence and policy gap. At Makerere University, limited institution-specific data exists on how intensity, purpose, and timing of social media usage influence academic performance. Without reliable evidence, interventions by lecturers, academic mentors, and student affairs units may be poorly targeted. This creates a practical need for research that identifies usage patterns and their relationship with performance indicators in order to guide context-relevant academic support strategies.
+The third part is the evidence and policy gap. At Mount Kigali University, limited institution-specific data exists on how intensity, purpose, and timing of social media usage influence academic performance. Without reliable evidence, interventions by lecturers, academic mentors, and student affairs units may be poorly targeted. This creates a practical need for research that identifies usage patterns and their relationship with performance indicators in order to guide context-relevant academic support strategies.
 
 ### 1.3 Purpose of the Study
-The purpose of this study is to examine how social media usage influences academic performance among undergraduate students at Makerere University.
+The purpose of this study is to examine how social media usage influences academic performance among undergraduate students at Mount Kigali University.
 
 ### 1.4 Specific Objectives
 The study will be guided by two specific objectives:
-1. To determine the relationship between intensity and purpose of social media usage and academic performance among undergraduate students at Makerere University.
-2. To assess how social media-related time management behavior influences academic performance among undergraduate students at Makerere University.
+1. To determine the relationship between intensity and purpose of social media usage and academic performance among undergraduate students at Mount Kigali University.
+2. To assess how social media-related time management behavior influences academic performance among undergraduate students at Mount Kigali University.
 
 ### 1.5 Research Questions
-1. What relationship exists between intensity and purpose of social media usage and academic performance among undergraduate students at Makerere University?
-2. How does social media-related time management behavior influence academic performance among undergraduate students at Makerere University?
+1. What relationship exists between intensity and purpose of social media usage and academic performance among undergraduate students at Mount Kigali University?
+2. How does social media-related time management behavior influence academic performance among undergraduate students at Mount Kigali University?
 
 ### 1.6 Scope of the Study
 #### 1.6.1 Geographical Scope
-The study will be conducted at Makerere University in Kampala, Uganda. The university provides a suitable context because of its large undergraduate population and widespread use of digital communication platforms.
+The study will be conducted at Mount Kigali University in Kigali, Rwanda. The university provides a suitable context because of its large undergraduate population and widespread use of digital communication platforms.
 
 #### 1.6.2 Content Scope
 The study will focus on the independent variable (social media usage), including frequency, purpose, and timing of use, and the dependent variable (academic performance), measured through selected indicators such as self-reported grade point trends, assignment completion, lecture participation, and study consistency.
@@ -153,7 +153,7 @@ However, collaboration spaces can also become noisy, with misinformation, off-to
 #### 2.2.5 African and Regional University Contexts
 In many African universities, social media plays a significant role where formal digital learning infrastructure may be uneven. Messaging applications frequently substitute for official learning management channels. While this can increase inclusivity and responsiveness, it can also blur boundaries between social and academic life.
 
-Regional studies recommend context-specific evidence because digital behavior is shaped by local cost of data, device access, campus culture, and institutional communication norms. Findings from non-African contexts may not transfer directly. This creates a clear rationale for a focused study at Makerere University.
+Regional studies recommend context-specific evidence because digital behavior is shaped by local cost of data, device access, campus culture, and institutional communication norms. Findings from non-African contexts may not transfer directly. This creates a clear rationale for a focused study at Mount Kigali University.
 
 ### 2.3 Theoretical Literature
 
@@ -167,7 +167,7 @@ Social Cognitive Theory emphasizes reciprocal interaction among behavior, person
 Self-Regulated Learning Theory is highly relevant because it addresses planning, monitoring, and control of learning activities. Students who set clear goals, manage time, and monitor digital interruptions can use social media in supportive ways. Students with weak self-regulation are more vulnerable to procrastination and fragmented study sessions.
 
 ### 2.4 Synthesis and Research Gap
-The literature indicates that social media can function as both a learning support and a distraction risk. Outcome direction depends on intensity, purpose, and self-regulatory behavior. Although this evidence is useful, there is still limited context-specific analysis for Makerere University that combines these dimensions in one coherent framework linked to practical student support measures.
+The literature indicates that social media can function as both a learning support and a distraction risk. Outcome direction depends on intensity, purpose, and self-regulatory behavior. Although this evidence is useful, there is still limited context-specific analysis for Mount Kigali University that combines these dimensions in one coherent framework linked to practical student support measures.
 
 The current study addresses this gap by examining the relationship between social media usage patterns and academic performance among undergraduates within a defined institutional and temporal context.
 
@@ -197,7 +197,7 @@ The second implication is analytical focus. Since time management appears to med
 The third implication is intervention relevance. The study will prioritize actionable findings for student support systems, moving beyond broad claims about social media harm or benefit.
 
 ### 2.8 Chapter Summary
-Chapter Two has reviewed empirical and theoretical literature, identified converging findings and gaps, and provided a conceptual basis for the study. The chapter confirms the need for context-specific evidence on how social media use patterns influence academic performance among Makerere undergraduates. Chapter Three presents the methodological approach for generating this evidence.
+Chapter Two has reviewed empirical and theoretical literature, identified converging findings and gaps, and provided a conceptual basis for the study. The chapter confirms the need for context-specific evidence on how social media use patterns influence academic performance among Mount Kigali University undergraduates. Chapter Three presents the methodological approach for generating this evidence.
 
 ---
 
@@ -212,7 +212,7 @@ The study will use a mixed-methods research design, integrating quantitative and
 A convergent design will be used where quantitative and qualitative data are collected during the same period, analyzed separately, and interpreted together. This design is suitable for developing both breadth and depth of understanding regarding the influence of social media behavior on learning outcomes.
 
 ### 3.3 Study Population/Respondents (1 page)
-The study population will comprise undergraduate students enrolled at Makerere University. The entire population includes all registered undergraduates across selected colleges in the study period.
+The study population will comprise undergraduate students enrolled at Mount Kigali University. The entire population includes all registered undergraduates across selected colleges in the study period.
 
 The target population will include undergraduate students who actively use at least one social media platform and are willing to participate in the research process.
 
@@ -448,7 +448,7 @@ Chapter Four has presented response outcomes, objective-based findings, and anal
 ## CHAPTER FIVE: SUMMARY, CONCLUSIONS, AND RECOMMENDATIONS
 
 ### 5.1 Summary of Major Findings
-The study examined the influence of social media usage on academic performance among undergraduate students at Makerere University.
+The study examined the influence of social media usage on academic performance among undergraduate students at Mount Kigali University.
 
 Regarding objective one, findings indicate that many students spend several hours daily on social media, with social interaction and entertainment as dominant primary purposes. A substantial proportion of respondents perceive negative effects on performance under current usage patterns.
 
@@ -464,7 +464,7 @@ When social media is used for academic collaboration, information access, and st
 Time management practices mediate this relationship. Students with clear schedules and digital boundaries are better positioned to benefit from online platforms without sacrificing learning quality.
 
 ### 5.3 Recommendations
-1. Makerere University should integrate digital study skills and social media self-regulation into student orientation and academic support programs.
+1. Mount Kigali University should integrate digital study skills and social media self-regulation into student orientation and academic support programs.
 2. Colleges and departments should encourage moderated course-based social media groups focused on assignment guidance and peer learning.
 3. Student affairs units should run periodic digital wellness campaigns emphasizing practical time management tools, including app timers and scheduled study blocks.
 4. Lecturers should provide clear communication channels and structured timelines that reduce last-minute academic pressure and discourage online procrastination.
@@ -509,11 +509,11 @@ Yamane, T. (1967). *Statistics: An introductory analysis* (2nd ed.). Harper and 
 Date: ____________________
 
 To: Undergraduate Student Respondent  
-Makerere University
+Mount Kigali University
 
 Subject: Request for Participation in Academic Research
 
-I am a student undertaking a study titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Makerere University."** The study is conducted for academic purposes under EBCU001 Research Methods.
+I am a student undertaking a study titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."** The study is conducted for academic purposes under EBCU001 Research Methods.
 
 You are kindly requested to participate by completing the attached questionnaire. Your responses will be treated with strict confidentiality and used only for academic analysis. Participation is voluntary, and you may withdraw at any stage without penalty.
 
@@ -556,7 +556,7 @@ TO WHOM IT MAY CONCERN
 
 RE: AUTHORIZATION FOR DATA COLLECTION
 
-This letter confirms that ____________________ is a registered student authorized to conduct academic research titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Makerere University."**
+This letter confirms that ____________________ is a registered student authorized to conduct academic research titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."**
 
 The student is permitted to collect data from relevant respondents for academic purposes only and under required ethical standards.
 
@@ -565,7 +565,7 @@ Title: ____________________
 Signature and Stamp: ____________________
 
 ### Appendix IV: Maps and Other Extra Information
-- Map showing location of Makerere University in Kampala (to be inserted in final print version).
+- Map showing location of Mount Kigali University in Kigali (to be inserted in final print version).
 - Additional institutional communication samples related to student digital usage (if available).
 
 ---
