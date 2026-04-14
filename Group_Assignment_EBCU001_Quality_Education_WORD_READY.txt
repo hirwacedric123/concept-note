@@ -1,0 +1,295 @@
+GROUP ASSIGNMENT - EBCU001 RESEARCH METHODS (10 MARKS)
+
+Topic:
+    Methodologies and data collection tools for investigating the level of quality education in a school
+
+
+1. INTRODUCTION
+
+    Quality education cannot be measured using only one indicator. A school may have good examination
+    results but still face challenges in teaching methods, learner support, discipline, resources, or
+    leadership. Because of this, education researchers use more than one methodology and more than one
+    data collection tool to get a complete and fair picture of quality.
+
+    In this assignment, quality education includes:
+        - learner achievement and progression;
+        - quality of teaching and classroom practice;
+        - curriculum delivery and assessment;
+        - school leadership and management;
+        - infrastructure and learning resources;
+        - inclusiveness, safety, and learner well-being;
+        - parent and community involvement.
+
+    This paper addresses two tasks:
+        1) to demonstrate at least ten methodologies that can be used to investigate quality education;
+        2) to discuss the good points and challenges of at least ten tools used to collect information,
+           data, and opinions.
+
+
+2. PART A: TEN METHODOLOGIES FOR INVESTIGATING QUALITY EDUCATION
+
+2.1 Survey Research Methodology
+    This methodology uses questionnaires to collect data from many respondents, such as students,
+    teachers, parents, and school administrators.
+
+    Why it is useful:
+        - It reaches many people in a short time.
+        - It gives measurable data such as frequencies and percentages.
+        - It helps compare views from different respondent groups.
+
+    School example:
+        A survey can be used to measure student satisfaction with teaching, learning materials, and
+        classroom support across the whole school.
+
+2.2 Case Study Methodology
+    A case study examines one school, one class, one department, or one special program in depth.
+
+    Why it is useful:
+        - It gives detailed understanding.
+        - It explains how and why certain quality outcomes happen.
+        - It allows the use of many sources (interviews, records, observation).
+
+    School example:
+        A researcher studies one high-performing school to identify practices that improve learner outcomes.
+
+2.3 Experimental Methodology
+    This methodology tests whether a specific intervention causes improvement in education outcomes.
+    It usually compares an intervention group with a control group.
+
+    Why it is useful:
+        - It helps establish cause and effect.
+        - It is strong for testing new teaching strategies.
+
+    School example:
+        One class uses a new reading method while another class continues with normal instruction, then
+        results are compared.
+
+2.4 Quasi-Experimental Methodology
+    This method is similar to experimental research but without full random assignment.
+    It is very common in real school environments.
+
+    Why it is useful:
+        - It is practical where random assignment is difficult.
+        - It still gives useful evidence on intervention effects.
+
+    School example:
+        Comparing two existing classes where one receives extra remedial support and the other does not.
+
+2.5 Cross-Sectional Methodology
+    This method collects data at one specific point in time.
+
+    Why it is useful:
+        - It gives a quick picture of current school quality.
+        - It supports immediate planning decisions.
+
+    School example:
+        A one-term review of attendance, teaching preparation, and exam performance.
+
+2.6 Longitudinal Methodology
+    This method collects data repeatedly over time from the same population.
+
+    Why it is useful:
+        - It tracks change and progress.
+        - It helps evaluate whether reforms are sustainable.
+
+    School example:
+        Tracking one learner cohort for several years to monitor progression and completion.
+
+2.7 Action Research Methodology
+    Action research is done by practitioners (teachers, school leaders) to solve immediate school or
+    classroom problems through cycles of planning, action, observation, and reflection.
+
+    Why it is useful:
+        - It links evidence directly to improvement.
+        - It strengthens teacher reflection and problem-solving.
+
+    School example:
+        A teacher tests a new class participation strategy, evaluates outcomes, and adjusts practice.
+
+2.8 Ethnographic Methodology
+    Ethnography studies school culture through prolonged engagement and observation.
+
+    Why it is useful:
+        - It captures hidden social factors.
+        - It explains behavior, values, and relationships that affect learning quality.
+
+    School example:
+        Observing school life over several weeks to understand why learners hesitate to participate in class.
+
+2.9 Comparative Research Methodology
+    This methodology compares two or more schools, classes, or systems.
+
+    Why it is useful:
+        - It identifies differences in quality indicators.
+        - It helps identify effective practices that can be adapted elsewhere.
+
+    School example:
+        Comparing public and private schools on attendance, classroom interaction, and performance.
+
+2.10 Mixed Methods Methodology
+    Mixed methods combines quantitative and qualitative research in one study.
+
+    Why it is useful:
+        - It gives both numbers and explanations.
+        - It improves validity through triangulation.
+
+    School example:
+        Using questionnaires for trend data and interviews to explain the trends.
+
+
+3. PART B: GOOD POINTS AND CHALLENGES OF TEN DATA COLLECTION TOOLS
+
+3.1 Questionnaires
+    Good points:
+        - Collect information from many respondents quickly.
+        - Low cost for large samples.
+        - Easy to analyze statistically.
+        - Can be anonymous.
+
+    Challenges:
+        - Limited detail if questions are mostly closed.
+        - Some respondents misunderstand questions.
+        - Low return rate can occur.
+        - Some forms are incomplete.
+
+3.2 Interviews
+    Good points:
+        - Provide deep and detailed information.
+        - Allow follow-up and clarification.
+        - Capture emotions and lived experiences.
+
+    Challenges:
+        - Time-consuming.
+        - Requires trained interviewers.
+        - Risk of interviewer bias.
+        - Hard to cover very large samples.
+
+3.3 Focus Group Discussions
+    Good points:
+        - Collect many views at once.
+        - Participants build on each other's ideas.
+        - Useful for exploring attitudes.
+
+    Challenges:
+        - Dominant members may control discussion.
+        - Sensitive issues may be hidden.
+        - Requires strong moderation skills.
+
+3.4 Classroom Observation
+    Good points:
+        - Captures real classroom behavior.
+        - Verifies what respondents report.
+        - Shows interaction quality directly.
+
+    Challenges:
+        - Presence of observer may change behavior.
+        - Requires trained observers and clear checklists.
+        - Can take a lot of time.
+
+3.5 Document Review
+    Good points:
+        - Uses existing school records.
+        - Supports trend analysis over time.
+        - Cost-effective and non-disruptive.
+
+    Challenges:
+        - Records may be incomplete or outdated.
+        - Some files may be inaccessible.
+        - Documented data may not reflect current reality.
+
+3.6 Tests and Assessments
+    Good points:
+        - Provide objective indicators of learner achievement.
+        - Useful for comparing classes or schools.
+        - Good for measuring intervention outcomes.
+
+    Challenges:
+        - Test anxiety can influence performance.
+        - Some learning domains are not fully captured.
+        - Poorly designed tests reduce validity.
+
+3.7 Rating Scales and Rubrics
+    Good points:
+        - Standardized and easy to apply.
+        - Quick scoring and comparison.
+        - Useful for behavior and performance levels.
+
+    Challenges:
+        - May oversimplify complex realities.
+        - Social desirability can affect responses.
+        - Scores may not explain underlying causes.
+
+3.8 Key Informant Interviews
+    Good points:
+        - Useful for strategic insights from experts.
+        - Helps understand policy and management issues.
+        - Efficient for system-level perspectives.
+
+    Challenges:
+        - Informant views can be subjective.
+        - Small number of informants limits representativeness.
+        - Scheduling senior officials can be difficult.
+
+3.9 Online/Phone-Based Forms
+    Good points:
+        - Fast collection and easy storage.
+        - Real-time response tracking.
+        - Lower paper and data-entry workload.
+
+    Challenges:
+        - Excludes those with weak internet/device access.
+        - Risk of low-quality unsupervised responses.
+        - Digital literacy differences affect participation.
+
+3.10 Suggestion Boxes/Open Comments
+    Good points:
+        - Encourages anonymous and honest feedback.
+        - Can reveal hidden concerns.
+        - Easy and low-cost to maintain.
+
+    Challenges:
+        - Comments may be too short or unclear.
+        - Hard to verify details.
+        - No immediate follow-up questions.
+
+
+4. ETHICAL CONSIDERATIONS
+
+    School quality investigations should follow strong ethical standards:
+        - informed consent from participants;
+        - confidentiality and anonymity;
+        - voluntary participation and right to withdraw;
+        - protection of minors and vulnerable participants;
+        - safe storage and responsible use of data;
+        - objective and honest reporting.
+
+    Ethics is important because school research involves children, teachers, and school reputation.
+    Without ethical care, findings may be harmful or unreliable.
+
+
+5. PRACTICAL APPROACH FOR ONE SCHOOL STUDY
+
+    A practical approach for investigating one school can combine:
+        1) questionnaires for broad patterns;
+        2) classroom observation for real practice;
+        3) document review for attendance and performance trends;
+        4) interviews for deeper explanation;
+        5) focus groups for learner opinions.
+
+    This combined strategy improves reliability because one tool supports or explains findings from another.
+    For example, poor performance trends in records can be better understood using classroom observation
+    and teacher interviews.
+
+
+6. CONCLUSION
+
+    Quality education research requires more than one method and more than one tool. The ten methodologies
+    presented in this paper offer different ways of studying school quality, from broad patterns to deep
+    contextual understanding. The ten data collection tools also provide complementary evidence on learner
+    performance, teacher practice, school management, and learner experience.
+
+    In practice, the strongest studies use triangulation, where quantitative and qualitative evidence is
+    combined. Therefore, an education investigator should choose methods and tools based on the research
+    objective, school context, available resources, and ethical responsibilities. When this is done well,
+    findings can guide practical school improvement and stronger learning outcomes.
+
