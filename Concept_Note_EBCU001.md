@@ -14,9 +14,9 @@ Date: April 2026
 
 ---
 
-## Phase 1 Setup and Framing
+## STUDY OVERVIEW
 
-### 1.1 Confirmed Variables
+### 1.1 Key Variables
 - Independent Variable (IV): Social media usage
 - Dependent Variable (DV): Academic performance
 
@@ -24,7 +24,7 @@ Date: April 2026
 - Geographical scope: Mount Kigali University, Kigali, Rwanda
 - Time scope: January 2020 to April 2026
 
-### 1.3 Writing Tracker (20+ Page Target)
+### 1.3 Planned Structure (20+ Pages)
 
 | Section | Target Length |
 |---|---|
@@ -36,7 +36,7 @@ Date: April 2026
 | References and Appendices | 2+ pages |
 | **Total** | **20+ pages** |
 
-### 1.4 Formatting Control Checklist for Final Word Version
+### 1.4 Formatting Checklist for Final Word Submission
 - Font type: Times New Roman
 - Body text: 12
 - Topics and titles: 14
@@ -239,7 +239,7 @@ n = \frac{10,000}{1 + 10,000(0.05)^2}
 The study will use an approximate sample size of 385 respondents for the survey component, with additional purposively selected participants for qualitative interviews.
 
 ### 3.4 Sampling Techniques Used (1/2 page)
-The study will apply both purposive (non-random) and non-purposive (random) sampling techniques.
+The study will apply both purposive (non-random) and probability (random) sampling techniques.
 
 Purposive sampling will be used to select key informants and student representatives with rich insight into student digital behavior and academic trends.
 
@@ -295,19 +295,19 @@ To improve data quality, the study will implement the following controls:
 These measures are expected to improve reliability and internal consistency of findings.
 
 ### 3.12 Chapter Summary
-Chapter Three has described the methodological pathway for investigating the study objectives. It has explained the study design, sampling, instruments, analysis plan, and ethical safeguards. The next chapter presents findings and interpretation aligned with each objective.
+Chapter Three has described the methodological pathway for investigating the study objectives. It has explained the study design, sampling, instruments, analysis plan, and ethical safeguards. The next chapter provides the planned format for presenting findings and interpretation aligned with each objective after data collection.
 
 ---
 
-## CHAPTER FOUR: PROPOSED DATA PRESENTATION, ANALYSIS, AND INTERPRETATION PLAN
+## CHAPTER FOUR: PLAN FOR PRESENTING AND DISCUSSING FINDINGS
 
 ### 4.1 Introduction
-This chapter outlines how findings will be presented, interpreted, and discussed after field data collection. At concept note stage, no primary data has yet been collected. The tables below are reporting templates to be completed after data collection and data cleaning.
+This chapter explains how the study findings will be presented and discussed after field data collection. At this concept note stage, no primary data has been collected yet. The tables below are templates that will be filled in after data collection and cleaning.
 
-### 4.2 Response Rate and Returned Information/Feedbacks (To Be Completed After Fieldwork)
-Questionnaires distributed: ___  
-Questionnaires returned: ___  
-Questionnaires valid for analysis: ___
+### 4.2 Response Rate and Returned Questionnaires (To Be Completed After Fieldwork)
+Questionnaires to be distributed: ___  
+Questionnaires to be returned: ___  
+Questionnaires expected to be valid for analysis: ___
 
 Table 4.1 will present response outcomes from the field process.
 
@@ -317,9 +317,9 @@ Table 4.1 will present response outcomes from the field process.
 | Returned questionnaires | ___ | ___ |
 | Valid questionnaires | ___ | ___ |
 
-**Planned interpretation guide:** The response rate will be interpreted to assess data adequacy and possible non-response bias before objective-based analysis.
+The response rate will be used to assess whether the data is sufficient for analysis and whether non-response bias is likely to affect interpretation.
 
-### 4.3 Planned Analysis for Objective One
+### 4.3 Analysis Plan for Objective One
 **Objective One:** To determine the relationship between intensity and purpose of social media usage and academic performance among undergraduate students.
 
 Table 4.2 will show average daily social media usage duration among respondents.
@@ -351,9 +351,9 @@ Table 4.4 will show perceived relationship between social media usage and perfor
 | Reduced performance | ___ | ___ |
 | **Total** | **___** | **100.0** |
 
-**Planned interpretation guide:** The analysis will compare dominant usage patterns (intensity and purpose) with self-reported academic outcomes, then discuss whether usage orientation appears supportive or disruptive to learning.
+In the final analysis, the study will compare dominant usage patterns (intensity and purpose) with self-reported academic outcomes, and discuss whether social media use appears to support or disrupt learning.
 
-### 4.4 Planned Analysis for Objective Two
+### 4.4 Analysis Plan for Objective Two
 **Objective Two:** To assess how social media-related time management behavior influences academic performance.
 
 Table 4.5 will show time management practices in relation to social media use.
@@ -375,10 +375,10 @@ Table 4.6 will show assignment completion behavior under social media interrupti
 | Frequently submits late | ___ | ___ |
 | **Total** | **___** | **100.0** |
 
-**Planned interpretation guide:** The study will examine whether weaker time management behavior is associated with delayed assignment completion and poorer perceived performance outcomes.
+The final analysis will examine whether weaker time management behavior is associated with delayed assignment completion and poorer perceived academic outcomes.
 
-### 4.5 Planned Cross-Tabulated Analysis
-To strengthen interpretation, cross-tabulations will be used after data entry.
+### 4.5 Cross-Tabulated Analysis
+To strengthen interpretation, cross-tabulations will be prepared after data entry.
 
 Table 4.7: Perceived effect by dominant purpose of social media use.
 
@@ -398,31 +398,31 @@ Table 4.8: Assignment completion pattern by time management category.
 | No clear schedule | ___ | ___ | ___ |
 | Frequent postponement due to social media | ___ | ___ | ___ |
 
-### 4.6 Discussion Framework
+### 4.6 Discussion Approach
 The final discussion will:
 1. Link results for each objective to reviewed empirical literature.
 2. Interpret findings using Uses and Gratifications Theory, Social Cognitive Theory, and Self-Regulated Learning Theory.
 3. Highlight practical implications for student support, teaching practice, and digital wellness at Mount Kigali University.
 
 ### 4.7 Chapter Summary
-Chapter Four has provided the planned format for presenting and interpreting results after fieldwork. Final values, findings, and objective-based interpretation will be inserted once data collection and analysis are completed.
+Chapter Four has presented the format that will be used to report and interpret results after fieldwork. Final values, findings, and objective-based discussion will be inserted after data collection and analysis.
 
 ---
 
-## CHAPTER FIVE: EXPECTED SUMMARY, CONCLUSION DIRECTION, AND PROVISIONAL RECOMMENDATIONS
+## CHAPTER FIVE: EXPECTED SUMMARY, CONCLUSIONS, AND RECOMMENDATIONS
 
-### 5.1 Expected Summary Direction
-After data analysis, Chapter Five will summarize major findings according to the two objectives:
+### 5.1 Expected Summary
+After data analysis, this chapter will summarize the major findings according to the two objectives:
 1. Relationship between social media usage intensity/purpose and academic performance.
 2. Influence of social media-related time management behavior on academic performance.
 
-### 5.2 Expected Conclusion Direction
-Based on literature and study objectives, the final conclusion is expected to clarify whether social media effects are primarily determined by:
+### 5.2 Expected Conclusions
+Based on the literature and study objectives, the final conclusions are expected to clarify whether social media effects are primarily determined by:
 - purpose of use (academic vs non-academic),
 - intensity and timing of use, and
 - student self-regulation and time management behavior.
 
-### 5.3 Provisional Recommendations (To Be Refined After Findings)
+### 5.3 Provisional Recommendations (To Be Refined After Analysis)
 1. Mount Kigali University should strengthen digital study-skills orientation for undergraduates.
 2. Colleges and departments should promote academically moderated social media groups.
 3. Student affairs units should implement practical digital wellness and time-management support.
@@ -433,7 +433,7 @@ Based on literature and study objectives, the final conclusion is expected to cl
 Future studies may compare multiple universities, analyze program-specific differences, and track digital behavior changes over time.
 
 ### 5.5 Concluding Remark
-The final conclusions and recommendations in this chapter will be confirmed after empirical data collection and analysis. At concept note stage, this chapter presents expected analytical direction rather than completed findings.
+The final conclusions and recommendations in this chapter will be confirmed after empirical data collection and analysis. At concept note stage, this section only presents the expected direction of findings.
 
 ---
 
@@ -472,7 +472,7 @@ Mount Kigali University
 
 Subject: Request for Participation in Academic Research
 
-I am a student undertaking a study titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."** The study is conducted for academic purposes under EBCU001 Research Methods.
+I am a student undertaking a study titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."** The study will be conducted for academic purposes under EBCU001 Research Methods.
 
 Researcher Name: NDACYAYISABA Caritas  
 Registration Number: BEDHG/2024/42081  
@@ -547,6 +547,6 @@ Use this checklist when transferring this draft into Word for final hard copy:
 7. Ensure no heading is underlined if bolded.
 8. For large tables, use size 10-11 only when needed.
 9. Rewrite any sentence that starts with numbers/percentages.
-10. Confirm each table/chart has both findings and analysis.
+10. For completed field reports, confirm each table/chart has both findings and analysis.
 11. Confirm references are consistently formatted.
 12. Print with laser quality and submit in hard binding as guided by librarian.
