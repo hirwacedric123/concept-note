@@ -19,7 +19,7 @@ When investigating quality education in a school, the researcher normally examin
 
 This assignment addresses two key tasks:
 1. Demonstrate at least ten methodologies that can be used to investigate quality education.
-2. Discuss the pros and cons of at least ten tools used to collect information, data, and opinions.
+2. Discuss the good points and challenges of at least ten tools used to collect information, data, and opinions.
 
 ---
 
@@ -97,18 +97,18 @@ This is often the strongest approach for investigating school quality because ed
 
 ---
 
-## 3. Part B: Pros and Cons of Ten Data Collection Tools
+## 3. Part B: Good Points and Challenges of Ten Data Collection Tools
 
 ### 3.1 Questionnaires
 Questionnaires are written instruments containing closed and/or open-ended questions.
 
-**Pros:**
+**Good points:**
 - Cover many respondents in a short period.
 - Cost-effective for large samples.
 - Easy to code and analyze statistically.
 - Can include anonymous responses for sensitive topics.
 
-**Cons:**
+**Challenges:**
 - Limited depth where only closed-ended items are used.
 - Misinterpretation can affect response quality.
 - Respondents may skip items or submit incomplete forms.
@@ -119,13 +119,13 @@ Questionnaires are written instruments containing closed and/or open-ended quest
 ### 3.2 Interviews (Structured, Semi-Structured, Unstructured)
 Interviews involve direct conversation with respondents and are useful for collecting detailed views and explanations.
 
-**Pros:**
+**Good points:**
 - Produce rich, detailed, context-specific data.
 - Allow probing and clarification.
 - Capture tone, emotion, and personal experience.
 - Useful for sensitive and complex topics.
 
-**Cons:**
+**Challenges:**
 - Time-consuming to conduct and transcribe.
 - Requires skilled interviewers.
 - Interviewer bias can influence responses.
@@ -136,13 +136,13 @@ Interviews involve direct conversation with respondents and are useful for colle
 ### 3.3 Focus Group Discussions (FGDs)
 FGDs gather a small group of participants to discuss a topic under moderation.
 
-**Pros:**
+**Good points:**
 - Generate diverse views quickly.
 - Encourage participants to react to each other's ideas.
 - Useful for identifying common school issues.
 - Efficient for exploratory research.
 
-**Cons:**
+**Challenges:**
 - Dominant members may silence others.
 - Sensitive issues may not be freely discussed.
 - Group pressure can shape responses.
@@ -153,13 +153,13 @@ FGDs gather a small group of participants to discuss a topic under moderation.
 ### 3.4 Classroom Observation Schedules
 Observation tools help researchers record real classroom practices such as time use, teacher questioning, learner engagement, and feedback methods.
 
-**Pros:**
+**Good points:**
 - Captures real behavior, not just reported behavior.
 - Reveals classroom dynamics and interaction quality.
 - Supports verification of survey/interview data.
 - Useful for teaching quality audits.
 
-**Cons:**
+**Challenges:**
 - Presence of observer may influence behavior.
 - Requires clear criteria and trained observers.
 - Can be labor-intensive over many classes.
@@ -170,13 +170,13 @@ Observation tools help researchers record real classroom practices such as time 
 ### 3.5 Document Review Checklists
 This tool extracts data from existing records such as lesson plans, timetables, attendance registers, exam reports, inspection reports, and policy documents.
 
-**Pros:**
+**Good points:**
 - Low-cost use of existing school evidence.
 - Supports trend analysis over multiple years.
 - Useful for triangulation with primary data.
 - Non-intrusive to teaching schedules.
 
-**Cons:**
+**Challenges:**
 - Records may be incomplete or poorly stored.
 - Some documents may not be accessible.
 - Existing data may not reflect current realities.
@@ -187,13 +187,13 @@ This tool extracts data from existing records such as lesson plans, timetables, 
 ### 3.6 Achievement Tests and Standardized Assessments
 These tools measure learner competence in specific subjects or skills.
 
-**Pros:**
+**Good points:**
 - Provide objective indicators of academic achievement.
 - Allow comparison across classes or schools.
 - Support evidence-based monitoring of learning outcomes.
 - Useful for evaluating intervention impact.
 
-**Cons:**
+**Challenges:**
 - Test anxiety may distort performance.
 - May not capture creativity, teamwork, or attitudes.
 - Poorly designed tests reduce validity.
@@ -204,13 +204,13 @@ These tools measure learner competence in specific subjects or skills.
 ### 3.7 Rating Scales and Rubrics
 Rating scales ask respondents to grade statements; rubrics assess performance using defined criteria.
 
-**Pros:**
+**Good points:**
 - Standardized scoring supports consistency.
 - Easy to administer and compare.
 - Useful for attitudes, behavior, and classroom quality.
 - Faster analysis than long narrative responses.
 
-**Cons:**
+**Challenges:**
 - Complex realities can be oversimplified.
 - Social desirability bias may occur.
 - Scores may hide reasons behind performance.
@@ -221,13 +221,13 @@ Rating scales ask respondents to grade statements; rubrics assess performance us
 ### 3.8 Key Informant Interview Guides (KIIs)
 KIIs are specialized interviews with people who have strategic knowledge, such as head teachers, inspectors, senior teachers, and board members.
 
-**Pros:**
+**Good points:**
 - Accesses high-level insights quickly.
 - Useful for policy and management analysis.
 - Helps explain institutional decisions.
 - Can identify hidden system-level barriers.
 
-**Cons:**
+**Challenges:**
 - Informant opinions may be subjective.
 - Small number of informants limits representativeness.
 - Scheduling senior officials can be difficult.
@@ -238,13 +238,13 @@ KIIs are specialized interviews with people who have strategic knowledge, such a
 ### 3.9 Digital/Online Data Collection Forms
 Online forms are administered through phones, tablets, or web platforms.
 
-**Pros:**
+**Good points:**
 - Fast collection and centralized storage.
 - Reduced paper and data-entry costs.
 - Real-time monitoring of response rates.
 - Built-in validation can reduce entry errors.
 
-**Cons:**
+**Challenges:**
 - Excludes participants with limited device/internet access.
 - Lower response quality may occur without supervision.
 - Digital literacy gaps affect data quality.
@@ -255,13 +255,13 @@ Online forms are administered through phones, tablets, or web platforms.
 ### 3.10 Suggestion Boxes and Open Comment Logs
 These tools allow participants to submit anonymous comments, complaints, and recommendations.
 
-**Pros:**
+**Good points:**
 - Encourages candid feedback.
 - Useful for identifying hidden or sensitive issues.
 - Low-cost and easy to maintain.
 - Supports continuous feedback culture.
 
-**Cons:**
+**Challenges:**
 - Responses can be brief or vague.
 - Possible misuse through non-serious comments.
 - Difficult to verify context and authenticity.
