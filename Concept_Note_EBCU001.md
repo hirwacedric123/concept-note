@@ -219,25 +219,21 @@ The target population will include undergraduate students who actively use at le
 The sample population will be drawn from the target population using a statistically acceptable formula. For large populations, Yamane's formula can be applied as follows:
 
 \[
-n = \frac{N}{1 + N e^2}
+n = \frac{N}{1 + N(e)^2}
 \]
 
 Where:
-- \(n\): required sample size
-- \(N\): target population size
-- \(e\): margin of error (commonly \(0.05\))
+- \(n\) = sample size
+- \(N\) = target population size
+- \(e\) = margin of error (commonly 0.05)
 
-Assuming \(N = 10{,}000\) and \(e = 0.05\):
+Assuming a target population \(N = 10,000\) and \(e = 0.05\):
 
 \[
-\begin{aligned}
-n &= \frac{N}{1 + N e^2} \\
-  &= \frac{10{,}000}{1 + 10{,}000(0.05)^2} \\
-  &= \frac{10{,}000}{1 + 10{,}000(0.0025)} \\
-  &= \frac{10{,}000}{1 + 25} \\
-  &= \frac{10{,}000}{26} \\
-  &= 384.6 \approx 385
-\end{aligned}
+n = \frac{10,000}{1 + 10,000(0.05)^2}
+= \frac{10,000}{1 + 25}
+= \frac{10,000}{26}
+= 384.6
 \]
 
 The study will use an approximate sample size of 385 respondents for the survey component, with additional purposively selected participants for qualitative interviews.
