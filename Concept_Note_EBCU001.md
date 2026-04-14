@@ -299,182 +299,141 @@ Chapter Three has described the methodological pathway for investigating the stu
 
 ---
 
-## CHAPTER FOUR: RESEARCH FINDINGS, INTERPRETATION, AND DISCUSSION
+## CHAPTER FOUR: PROPOSED DATA PRESENTATION, ANALYSIS, AND INTERPRETATION PLAN
 
 ### 4.1 Introduction
-This chapter presents sample findings aligned to the two study objectives. It demonstrates the required style for presenting findings and analysis for each table/chart.
+This chapter outlines how findings will be presented, interpreted, and discussed after field data collection. At concept note stage, no primary data has yet been collected. The tables below are reporting templates to be completed after data collection and data cleaning.
 
-### 4.2 Response Rate and Returned Information/Feedbacks
-Questionnaires distributed: 385  
-Questionnaires returned: 360  
-Questionnaires valid for analysis: 352
+### 4.2 Response Rate and Returned Information/Feedbacks (To Be Completed After Fieldwork)
+Questionnaires distributed: ___  
+Questionnaires returned: ___  
+Questionnaires valid for analysis: ___
 
-Table 4.1 presents response outcomes from the field process.
+Table 4.1 will present response outcomes from the field process.
 
 | Response Category | Frequency | Percentage |
 |---|---:|---:|
-| Distributed questionnaires | 385 | 100.0 |
-| Returned questionnaires | 360 | 93.5 |
-| Valid questionnaires | 352 | 91.4 |
+| Distributed questionnaires | ___ | 100.0 |
+| Returned questionnaires | ___ | ___ |
+| Valid questionnaires | ___ | ___ |
 
-**Finding:** Table 4.1 shows that the study obtained a high response level, with more than nine in every ten distributed questionnaires returned in valid form.
+**Planned interpretation guide:** The response rate will be interpreted to assess data adequacy and possible non-response bias before objective-based analysis.
 
-**Analysis:** The high valid response rate improves confidence in the consistency of the survey results and reduces concern about severe non-response bias. This strengthens interpretation of observed relationships between social media usage and academic performance.
-
-### 4.3 Findings for Objective One
+### 4.3 Planned Analysis for Objective One
 **Objective One:** To determine the relationship between intensity and purpose of social media usage and academic performance among undergraduate students.
 
-Table 4.2 shows average daily social media usage duration among respondents.
+Table 4.2 will show average daily social media usage duration among respondents.
 
 | Daily Usage Duration | Frequency | Percentage |
 |---|---:|---:|
-| Less than 1 hour | 28 | 8.0 |
-| 1-3 hours | 122 | 34.7 |
-| 4-6 hours | 141 | 40.1 |
-| More than 6 hours | 61 | 17.3 |
-| **Total** | **352** | **100.0** |
+| Less than 1 hour | ___ | ___ |
+| 1-3 hours | ___ | ___ |
+| 4-6 hours | ___ | ___ |
+| More than 6 hours | ___ | ___ |
+| **Total** | **___** | **100.0** |
 
-**Finding:** Table 4.2 shows that the largest share of respondents spend 4-6 hours daily on social media, while a notable minority spend more than 6 hours.
-
-**Analysis:** This distribution indicates substantial engagement intensity that may compete with planned study time. The concentration in moderate-to-high usage categories suggests that any intervention should focus on use quality and time regulation rather than simple platform restriction.
-
-Table 4.3 shows main purpose of social media usage among respondents.
+Table 4.3 will show main purpose of social media usage among respondents.
 
 | Main Purpose of Use | Frequency | Percentage |
 |---|---:|---:|
-| Academic discussions and resources | 96 | 27.3 |
-| Social interaction with friends/family | 117 | 33.2 |
-| Entertainment/news content | 105 | 29.8 |
-| Business/networking | 34 | 9.7 |
-| **Total** | **352** | **100.0** |
+| Academic discussions and resources | ___ | ___ |
+| Social interaction with friends/family | ___ | ___ |
+| Entertainment/news content | ___ | ___ |
+| Business/networking | ___ | ___ |
+| **Total** | **___** | **100.0** |
 
-**Finding:** Table 4.3 shows that social interaction is the most common primary purpose, followed by entertainment, while academic use accounts for slightly more than one-quarter of respondents.
-
-**Analysis:** The pattern suggests that non-academic motivations dominate student platform use. This may explain why high usage does not automatically translate into better learning outcomes. Academic support programs may need to intentionally increase productive learning use within existing social media habits.
-
-Figure 4.1 shows self-reported relationship between social media usage and performance trend.
+Table 4.4 will show perceived relationship between social media usage and performance trend.
 
 | Perceived Effect on Performance | Frequency | Percentage |
 |---|---:|---:|
-| Improved performance | 82 | 23.3 |
-| No clear effect | 94 | 26.7 |
-| Reduced performance | 176 | 50.0 |
-| **Total** | **352** | **100.0** |
+| Improved performance | ___ | ___ |
+| No clear effect | ___ | ___ |
+| Reduced performance | ___ | ___ |
+| **Total** | **___** | **100.0** |
 
-**Finding:** Figure 4.1 shows that one-half of respondents perceive social media usage as reducing their academic performance, while fewer than one-quarter report improvement.
+**Planned interpretation guide:** The analysis will compare dominant usage patterns (intensity and purpose) with self-reported academic outcomes, then discuss whether usage orientation appears supportive or disruptive to learning.
 
-**Analysis:** Perception-based evidence indicates that many students experience social media as a net academic risk under current usage conditions. This underscores the importance of differentiated guidance that promotes purposeful use and limits distraction-heavy engagement.
-
-### 4.4 Findings for Objective Two
+### 4.4 Planned Analysis for Objective Two
 **Objective Two:** To assess how social media-related time management behavior influences academic performance.
 
-Table 4.4 shows reported time management practices in relation to social media use.
+Table 4.5 will show time management practices in relation to social media use.
 
 | Time Management Practice | Frequency | Percentage |
 |---|---:|---:|
-| Uses fixed study schedule and app limits | 74 | 21.0 |
-| Uses schedule but rarely follows it | 109 | 31.0 |
-| Studies without schedule | 93 | 26.4 |
-| Frequently postpones study due to social media | 76 | 21.6 |
-| **Total** | **352** | **100.0** |
+| Uses fixed study schedule and app limits | ___ | ___ |
+| Uses schedule but rarely follows it | ___ | ___ |
+| Studies without schedule | ___ | ___ |
+| Frequently postpones study due to social media | ___ | ___ |
+| **Total** | **___** | **100.0** |
 
-**Finding:** Table 4.4 shows that only about one-fifth of respondents consistently use structured controls, while most students either follow weak schedules or report disruption from social media.
-
-**Analysis:** The findings suggest that weak self-regulation is common and likely amplifies negative academic effects. Time management interventions, including practical planning tools and digital boundary strategies, may produce direct performance gains.
-
-Table 4.5 shows assignment completion behavior under social media interruption.
+Table 4.6 will show assignment completion behavior under social media interruption.
 
 | Assignment Completion Pattern | Frequency | Percentage |
 |---|---:|---:|
-| Completes before deadline consistently | 88 | 25.0 |
-| Completes close to deadline | 171 | 48.6 |
-| Frequently submits late | 93 | 26.4 |
-| **Total** | **352** | **100.0** |
+| Completes before deadline consistently | ___ | ___ |
+| Completes close to deadline | ___ | ___ |
+| Frequently submits late | ___ | ___ |
+| **Total** | **___** | **100.0** |
 
-**Finding:** Table 4.5 shows that almost one-half of respondents complete assignments close to deadlines, and over one-quarter frequently submit late.
+**Planned interpretation guide:** The study will examine whether weaker time management behavior is associated with delayed assignment completion and poorer perceived performance outcomes.
 
-**Analysis:** Deadline pressure patterns are consistent with distraction-related procrastination. Academic counseling that links digital habit control to assignment planning could reduce late submission rates and improve learning quality.
+### 4.5 Planned Cross-Tabulated Analysis
+To strengthen interpretation, cross-tabulations will be used after data entry.
 
-### 4.5 Discussion of Findings
-The findings suggest that social media usage has a conditional influence on academic performance. Students with academically oriented use and stronger time controls report better outcomes than students with high entertainment-driven use and weak schedule adherence.
-
-This outcome aligns with Uses and Gratifications Theory, where motivations shape media effects, and with Self-Regulated Learning Theory, where planning and self-monitoring determine learning quality. The findings also support empirical work that identifies time management as a key pathway linking digital behavior to academic outcomes.
-
-The chapter indicates that policy responses should not focus solely on limiting access. More practical gains are likely from promoting intentional academic use, study scheduling, and peer accountability systems that make productive behavior easier to sustain.
-
-### 4.6 Additional Cross-Tabulated Evidence
-Table 4.6 shows perceived effect by dominant purpose of social media use.
+Table 4.7: Perceived effect by dominant purpose of social media use.
 
 | Dominant Purpose | Improved | No Clear Effect | Reduced | Total |
 |---|---:|---:|---:|---:|
-| Academic discussions/resources | 39 | 34 | 23 | 96 |
-| Social interaction | 20 | 31 | 66 | 117 |
-| Entertainment/news | 15 | 19 | 71 | 105 |
-| Business/networking | 8 | 10 | 16 | 34 |
+| Academic discussions/resources | ___ | ___ | ___ | ___ |
+| Social interaction | ___ | ___ | ___ | ___ |
+| Entertainment/news | ___ | ___ | ___ | ___ |
+| Business/networking | ___ | ___ | ___ | ___ |
 
-**Finding:** Table 4.6 shows that respondents whose dominant use is academic report a higher share of improved outcomes than respondents dominated by social interaction or entertainment use.
-
-**Analysis:** This pattern strengthens the claim that purpose of use is a decisive factor. Platform exposure alone does not explain outcomes. Academic orientation appears protective, while entertainment-dominant behavior is associated with poorer performance perception.
-
-Table 4.7 shows assignment completion pattern by time management category.
+Table 4.8: Assignment completion pattern by time management category.
 
 | Time Management Category | Consistent Early Completion | Close-to-Deadline Completion | Frequent Late Submission |
 |---|---:|---:|---:|
-| Strong schedule and app limits | 36 | 30 | 8 |
-| Weak schedule adherence | 24 | 61 | 24 |
-| No clear schedule | 17 | 43 | 33 |
-| Frequent postponement due to social media | 11 | 37 | 28 |
+| Strong schedule and app limits | ___ | ___ | ___ |
+| Weak schedule adherence | ___ | ___ | ___ |
+| No clear schedule | ___ | ___ | ___ |
+| Frequent postponement due to social media | ___ | ___ | ___ |
 
-**Finding:** Table 4.7 shows that stronger scheduling behavior is associated with better assignment timeliness, while postponement-related groups show higher late submission counts.
+### 4.6 Discussion Framework
+The final discussion will:
+1. Link results for each objective to reviewed empirical literature.
+2. Interpret findings using Uses and Gratifications Theory, Social Cognitive Theory, and Self-Regulated Learning Theory.
+3. Highlight practical implications for student support, teaching practice, and digital wellness at Mount Kigali University.
 
-**Analysis:** The trend suggests that time management is an operational bridge between digital behavior and academic output. Interventions that strengthen schedule adherence can generate measurable improvements even without eliminating social media access.
-
-### 4.7 Implications for University Practice
-The findings point to practical implications for institutional action.
-
-First, student support units should frame social media as a behavior management issue rather than a simple technology problem. Students need structured skills for selective use, notification control, and protected study intervals.
-
-Second, departments should integrate low-cost digital accountability systems, such as assignment reminder structures and peer study checkpoints, into normal teaching practice.
-
-Third, the university should encourage educational use pathways by supporting moderated academic groups where verified information and constructive peer assistance are prioritized.
-
-Fourth, counselor-led interventions should target high-risk patterns identified in this study, including extended late-night entertainment use and repeated deadline postponement.
-
-### 4.8 Chapter Summary
-Chapter Four has presented response outcomes, objective-based findings, and analytical interpretation. Evidence shows that social media effects on performance are strongly conditioned by purpose and self-regulation. Chapter Five synthesizes these findings into conclusions and recommendations.
+### 4.7 Chapter Summary
+Chapter Four has provided the planned format for presenting and interpreting results after fieldwork. Final values, findings, and objective-based interpretation will be inserted once data collection and analysis are completed.
 
 ---
 
-## CHAPTER FIVE: SUMMARY, CONCLUSIONS, AND RECOMMENDATIONS
+## CHAPTER FIVE: EXPECTED SUMMARY, CONCLUSION DIRECTION, AND PROVISIONAL RECOMMENDATIONS
 
-### 5.1 Summary of Major Findings
-The study examined the influence of social media usage on academic performance among undergraduate students at Mount Kigali University.
+### 5.1 Expected Summary Direction
+After data analysis, Chapter Five will summarize major findings according to the two objectives:
+1. Relationship between social media usage intensity/purpose and academic performance.
+2. Influence of social media-related time management behavior on academic performance.
 
-Regarding objective one, findings indicate that many students spend several hours daily on social media, with social interaction and entertainment as dominant primary purposes. A substantial proportion of respondents perceive negative effects on performance under current usage patterns.
+### 5.2 Expected Conclusion Direction
+Based on literature and study objectives, the final conclusion is expected to clarify whether social media effects are primarily determined by:
+- purpose of use (academic vs non-academic),
+- intensity and timing of use, and
+- student self-regulation and time management behavior.
 
-Regarding objective two, findings indicate that structured time management is limited among many respondents. Weak schedule adherence and delay behavior are associated with late assignment completion and reduced study consistency.
-
-Overall, the study suggests that social media influence is not uniformly negative or positive. Effects depend on purpose of use and degree of self-regulation.
-
-### 5.2 Conclusions
-The study concludes that social media usage significantly influences academic performance among undergraduates, primarily through usage purpose and time management behavior.
-
-When social media is used for academic collaboration, information access, and structured communication, it can support learning outcomes. When usage is dominated by non-academic content and weak self-control, it contributes to distraction, procrastination, and lower academic performance.
-
-Time management practices mediate this relationship. Students with clear schedules and digital boundaries are better positioned to benefit from online platforms without sacrificing learning quality.
-
-### 5.3 Recommendations
-1. Mount Kigali University should integrate digital study skills and social media self-regulation into student orientation and academic support programs.
-2. Colleges and departments should encourage moderated course-based social media groups focused on assignment guidance and peer learning.
-3. Student affairs units should run periodic digital wellness campaigns emphasizing practical time management tools, including app timers and scheduled study blocks.
-4. Lecturers should provide clear communication channels and structured timelines that reduce last-minute academic pressure and discourage online procrastination.
-5. Further studies should examine long-term effects using longitudinal designs and objective performance records to complement self-reported measures.
+### 5.3 Provisional Recommendations (To Be Refined After Findings)
+1. Mount Kigali University should strengthen digital study-skills orientation for undergraduates.
+2. Colleges and departments should promote academically moderated social media groups.
+3. Student affairs units should implement practical digital wellness and time-management support.
+4. Lecturers should provide clear timelines and communication channels that reduce procrastination pressure.
+5. Further studies should use longitudinal designs and objective performance records where possible.
 
 ### 5.4 Areas for Further Research
-Future studies should consider comparative analysis across multiple universities to test whether observed patterns remain stable across institutional contexts. Additional work should include discipline-specific analysis, since academic workload and digital dependence vary by program. Longitudinal tracking would also help determine how social media behavior and performance relationships evolve across years of study.
+Future studies may compare multiple universities, analyze program-specific differences, and track digital behavior changes over time.
 
 ### 5.5 Concluding Remark
-Social media is now a permanent feature of student life. The practical challenge for higher education is not whether students should use social media, but how they can use it in ways that support academic goals. This study contributes evidence for designing realistic, context-sensitive strategies that protect learning quality while recognizing contemporary student communication realities.
+The final conclusions and recommendations in this chapter will be confirmed after empirical data collection and analysis. At concept note stage, this chapter presents expected analytical direction rather than completed findings.
 
 ---
 
