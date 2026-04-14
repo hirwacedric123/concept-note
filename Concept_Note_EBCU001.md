@@ -5,7 +5,7 @@
 ## Topic/Title
 **Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University**
 
-Student Name: NDACYASABA Cartas  
+Student Name: NDACYAYISABA Caritas  
 Registration Number: BEDHG/2024/42081  
 Programme: ____________________  
 Course Unit: EBCU001 Research Methods  
@@ -515,13 +515,18 @@ Subject: Request for Participation in Academic Research
 
 I am a student undertaking a study titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."** The study is conducted for academic purposes under EBCU001 Research Methods.
 
+Researcher Name: NDACYAYISABA Caritas  
+Registration Number: BEDHG/2024/42081  
+Institution: Mount Kigali University
+
 You are kindly requested to participate by completing the attached questionnaire. Your responses will be treated with strict confidentiality and used only for academic analysis. Participation is voluntary, and you may withdraw at any stage without penalty.
 
 Your support will contribute to evidence-based recommendations for improving student learning outcomes.
 
 Yours faithfully,  
 ____________________  
-Researcher
+NDACYAYISABA Caritas  
+Researcher (Reg No: BEDHG/2024/42081)
 
 ### Appendix II: Research Instrument (Questionnaire Extract)
 
@@ -556,7 +561,7 @@ TO WHOM IT MAY CONCERN
 
 RE: AUTHORIZATION FOR DATA COLLECTION
 
-This letter confirms that ____________________ is a registered student authorized to conduct academic research titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."**
+This letter confirms that **NDACYAYISABA Caritas** (Reg No: **BEDHG/2024/42081**) is a registered student of **Mount Kigali University** authorized to conduct academic research titled **"Influence of Social Media Usage on Academic Performance among Undergraduate Students at Mount Kigali University."**
 
 The student is permitted to collect data from relevant respondents for academic purposes only and under required ethical standards.
 
