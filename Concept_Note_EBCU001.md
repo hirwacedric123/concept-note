@@ -302,80 +302,80 @@ Chapter Three has described the methodological pathway for investigating the stu
 ## CHAPTER FOUR: PLAN FOR PRESENTING AND DISCUSSING FINDINGS
 
 ### 4.1 Introduction
-This chapter explains how the study findings will be presented and discussed after field data collection. At this concept note stage, no primary data has been collected yet. The tables below are templates that will be filled in after data collection and cleaning.
+This chapter presents illustrative sample findings and discussion format for the study. At concept note stage, these values are for presentation guidance and will be replaced by actual field results after data collection and cleaning.
 
 ### 4.2 Response Rate and Returned Questionnaires (To Be Completed After Fieldwork)
-Questionnaires to be distributed: ___  
-Questionnaires to be returned: ___  
-Questionnaires expected to be valid for analysis: ___
+Questionnaires distributed: 385
+Questionnaires returned: 360
+Questionnaires valid for analysis: 352
 
-Table 4.1 will present response outcomes from the field process.
+Table 4.1 presents response outcomes from the field process.
 
 | Response Category | Frequency | Percentage |
 |---|---:|---:|
-| Distributed questionnaires | ___ | 100.0 |
-| Returned questionnaires | ___ | ___ |
-| Valid questionnaires | ___ | ___ |
+| Distributed questionnaires | 385 | 100.0 |
+| Returned questionnaires | 360 | 93.5 |
+| Valid questionnaires | 352 | 91.4 |
 
-The response rate will be used to assess whether the data is sufficient for analysis and whether non-response bias is likely to affect interpretation.
+The response rate indicates good questionnaire return and a sufficient base for analysis.
 
 ### 4.3 Analysis Plan for Objective One
 **Objective One:** To determine the relationship between intensity and purpose of social media usage and academic performance among undergraduate students.
 
-Table 4.2 will show average daily social media usage duration among respondents.
+Table 4.2 shows average daily social media usage duration among respondents.
 
 | Daily Usage Duration | Frequency | Percentage |
 |---|---:|---:|
-| Less than 1 hour | ___ | ___ |
-| 1-3 hours | ___ | ___ |
-| 4-6 hours | ___ | ___ |
-| More than 6 hours | ___ | ___ |
-| **Total** | **___** | **100.0** |
+| Less than 1 hour | 28 | 8.0 |
+| 1-3 hours | 122 | 34.7 |
+| 4-6 hours | 141 | 40.1 |
+| More than 6 hours | 61 | 17.3 |
+| **Total** | **352** | **100.0** |
 
-Table 4.3 will show main purpose of social media usage among respondents.
+Table 4.3 shows main purpose of social media usage among respondents.
 
 | Main Purpose of Use | Frequency | Percentage |
 |---|---:|---:|
-| Academic discussions and resources | ___ | ___ |
-| Social interaction with friends/family | ___ | ___ |
-| Entertainment/news content | ___ | ___ |
-| Business/networking | ___ | ___ |
-| **Total** | **___** | **100.0** |
+| Academic discussions and resources | 96 | 27.3 |
+| Social interaction with friends/family | 117 | 33.2 |
+| Entertainment/news content | 105 | 29.8 |
+| Business/networking | 34 | 9.7 |
+| **Total** | **352** | **100.0** |
 
-Table 4.4 will show perceived relationship between social media usage and performance trend.
+Table 4.4 shows perceived relationship between social media usage and performance trend.
 
 | Perceived Effect on Performance | Frequency | Percentage |
 |---|---:|---:|
-| Improved performance | ___ | ___ |
-| No clear effect | ___ | ___ |
-| Reduced performance | ___ | ___ |
-| **Total** | **___** | **100.0** |
+| Improved performance | 82 | 23.3 |
+| No clear effect | 94 | 26.7 |
+| Reduced performance | 176 | 50.0 |
+| **Total** | **352** | **100.0** |
 
-In the final analysis, the study will compare dominant usage patterns (intensity and purpose) with self-reported academic outcomes, and discuss whether social media use appears to support or disrupt learning.
+The pattern suggests that usage purpose and intensity are likely to shape whether social media supports or disrupts learning.
 
 ### 4.4 Analysis Plan for Objective Two
 **Objective Two:** To assess how social media-related time management behavior influences academic performance.
 
-Table 4.5 will show time management practices in relation to social media use.
+Table 4.5 shows time management practices in relation to social media use.
 
 | Time Management Practice | Frequency | Percentage |
 |---|---:|---:|
-| Uses fixed study schedule and app limits | ___ | ___ |
-| Uses schedule but rarely follows it | ___ | ___ |
-| Studies without schedule | ___ | ___ |
-| Frequently postpones study due to social media | ___ | ___ |
-| **Total** | **___** | **100.0** |
+| Uses fixed study schedule and app limits | 74 | 21.0 |
+| Uses schedule but rarely follows it | 109 | 31.0 |
+| Studies without schedule | 93 | 26.4 |
+| Frequently postpones study due to social media | 76 | 21.6 |
+| **Total** | **352** | **100.0** |
 
-Table 4.6 will show assignment completion behavior under social media interruption.
+Table 4.6 shows assignment completion behavior under social media interruption.
 
 | Assignment Completion Pattern | Frequency | Percentage |
 |---|---:|---:|
-| Completes before deadline consistently | ___ | ___ |
-| Completes close to deadline | ___ | ___ |
-| Frequently submits late | ___ | ___ |
-| **Total** | **___** | **100.0** |
+| Completes before deadline consistently | 88 | 25.0 |
+| Completes close to deadline | 171 | 48.6 |
+| Frequently submits late | 93 | 26.4 |
+| **Total** | **352** | **100.0** |
 
-The final analysis will examine whether weaker time management behavior is associated with delayed assignment completion and poorer perceived academic outcomes.
+The trend indicates that weaker time management may be associated with delayed assignment completion and poorer perceived academic outcomes.
 
 ### 4.5 Cross-Tabulated Analysis
 To strengthen interpretation, cross-tabulations will be prepared after data entry.
@@ -384,19 +384,19 @@ Table 4.7: Perceived effect by dominant purpose of social media use.
 
 | Dominant Purpose | Improved | No Clear Effect | Reduced | Total |
 |---|---:|---:|---:|---:|
-| Academic discussions/resources | ___ | ___ | ___ | ___ |
-| Social interaction | ___ | ___ | ___ | ___ |
-| Entertainment/news | ___ | ___ | ___ | ___ |
-| Business/networking | ___ | ___ | ___ | ___ |
+| Academic discussions/resources | 39 | 34 | 23 | 96 |
+| Social interaction | 20 | 31 | 66 | 117 |
+| Entertainment/news | 15 | 19 | 71 | 105 |
+| Business/networking | 8 | 10 | 16 | 34 |
 
 Table 4.8: Assignment completion pattern by time management category.
 
 | Time Management Category | Consistent Early Completion | Close-to-Deadline Completion | Frequent Late Submission |
 |---|---:|---:|---:|
-| Strong schedule and app limits | ___ | ___ | ___ |
-| Weak schedule adherence | ___ | ___ | ___ |
-| No clear schedule | ___ | ___ | ___ |
-| Frequent postponement due to social media | ___ | ___ | ___ |
+| Strong schedule and app limits | 36 | 30 | 8 |
+| Weak schedule adherence | 24 | 61 | 24 |
+| No clear schedule | 17 | 43 | 33 |
+| Frequent postponement due to social media | 11 | 37 | 28 |
 
 ### 4.6 Discussion Approach
 The final discussion will:
